@@ -144,7 +144,7 @@
 </script>
 </head>
 <body onsubmit="return f1()">
-<?php 
+<!-- <?php 
 $servername = "localhost";
 $db_username = "root";
 $db_password = "";
@@ -221,7 +221,7 @@ echo "Connected successfully";
 			
 	   
 	}
-	?>
+	?> -->
 
 
     <div id="background">
